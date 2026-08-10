@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30916909/README.md)
+
 <h1 align="center">Hi 👋, I'm Khayal Gasimov</h1>
 <h3 align="center">Java Backend Developer (Junior) • Student • Eager to Learn</h3>
 

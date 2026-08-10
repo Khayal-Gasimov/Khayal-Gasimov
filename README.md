@@ -35,15 +35,3 @@
 
 <br>
 
-### 🏆 GitHub Trophies
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Khayal-Gasimov&theme=flat&column=6&margin-w=10&margin-h=10" />
-</p>
-
-<br>
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Khayal-Gasimov&show_icons=true&theme=default" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khayal-Gasimov&layout=compact&theme=default" width="48%" />
-</p>
